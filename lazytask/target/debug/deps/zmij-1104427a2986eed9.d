@@ -1,0 +1,9 @@
+/home/tyler/lazytask/lazytask/target/debug/deps/zmij-1104427a2986eed9.d: /home/tyler/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zmij-1.0.21/src/lib.rs /home/tyler/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zmij-1.0.21/src/stdarch_x86.rs /home/tyler/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zmij-1.0.21/src/traits.rs
+
+/home/tyler/lazytask/lazytask/target/debug/deps/libzmij-1104427a2986eed9.rlib: /home/tyler/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zmij-1.0.21/src/lib.rs /home/tyler/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zmij-1.0.21/src/stdarch_x86.rs /home/tyler/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zmij-1.0.21/src/traits.rs
+
+/home/tyler/lazytask/lazytask/target/debug/deps/libzmij-1104427a2986eed9.rmeta: /home/tyler/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zmij-1.0.21/src/lib.rs /home/tyler/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zmij-1.0.21/src/stdarch_x86.rs /home/tyler/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zmij-1.0.21/src/traits.rs
+
+/home/tyler/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zmij-1.0.21/src/lib.rs:
+/home/tyler/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zmij-1.0.21/src/stdarch_x86.rs:
+/home/tyler/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zmij-1.0.21/src/traits.rs:
