@@ -6,7 +6,7 @@ A terminal kanban board for your todo list. Inspired by [lazygit](https://github
 
 ## Demo
 
-<video src="demo.mp4" controls width="700"></video>
+![lazytask demo](demo.gif)
 
 ---
 
