@@ -1,9 +1,11 @@
 [package]
 name = "lazytask"
 version = "0.1.0"
-edition = "2024"
+edition = "2021"
 
 [dependencies]
-clap = {version = "4.5.60", features = ["derive"]}
-serde = {version = "1.0.228", features = ["derive"]}
+clap = { version = "4.5", features = ["derive"] }
+serde = { version = "1.0", features = ["derive"] }
 serde_json = "1"
+ratatui = { version = "0.28", features = ["crossterm"] }
+crossterm = "0.28"
