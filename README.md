@@ -4,6 +4,10 @@ A terminal kanban board for your todo list. Inspired by [lazygit](https://github
 
 **One board per project.** Run `lazytask` in any directory and it uses a local `tasks.json` there. No config, no accounts—just your tasks.
 
+## Demo
+
+<video src="demo.mp4" controls width="700"></video>
+
 ---
 
 ## Features
